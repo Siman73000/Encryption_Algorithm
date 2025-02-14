@@ -54,5 +54,5 @@ def decrypt_file(file_path):
 # Usage
 create_key()
 
-encrypt_file(r"C:\Users\simon.hamilton\Documents\TextDocuments\Ballys.txt")
-decrypt_file(r"C:\Users\simon.hamilton\Documents\TextDocuments\encrypted_Ballys.txt")
+encrypt_file(r"plainPassword.txt")
+decrypt_file(r"encryptedPassword.txt")
